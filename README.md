@@ -2,7 +2,7 @@
 
 Basic event slideshow using AngularJS, easy to theme. Displays images and videos from Instagram. Synchronized, so the same thing shows on multiple computer-screens. Just post to Instagram with the tag, and it will show up.
 
-Here is a [demo](http://tagslide.herokuapp.com/) with the tag #tagslide.
+Here is a [demo](https://canalmidiaslide.herokuapp.com/) with the tag #tagslide.
 
 Optionally, you can moderate
 

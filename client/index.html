@@ -10,11 +10,11 @@
 </head>
 
 <body ng-controller="MainCtrl">
-	<h1 class="help" ng-show="tag">Post to Instagram with #{{tag}}</h1>
-	<button class="fullscreen btn btn-lg btn-primary" ng-click="fullscreen()">fullscreen</button>
+	<h1 class="help" ng-show="tag">Marque a rashtag #{{tag}}</h1>
+	<button class="fullscreen btn btn-lg btn-primary" ng-click="fullscreen()">Tela Cheia</button>
 	
 	<div class="wait" ng-if="!posts || posts.length == 0">
-		<h1>Please wait.</h1>
+		<h1>Aguarde por favor.</h1>
 	</div>
 
 	<div class="post" ng-repeat="post in posts">

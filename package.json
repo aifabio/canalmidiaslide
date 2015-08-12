@@ -1,11 +1,11 @@
 {
-  "name": "tagslide",
+  "name": "canalmidiaslide",
   "version": "0.0.0",
   "description": "",
   "scripts": {
     "start": "node server"
   },
-  "author": "David Konsumer <konsumer@jetboystudio.com>",
+  "author": "FNC <suporte@canalmidia.com.br>",
   "license": "MIT",
   "dependencies": {
     "chalk": "^0.5.1",
